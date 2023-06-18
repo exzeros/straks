@@ -73,7 +73,7 @@ ____________________________________________________________________
 - **[Coinlib](https://coinlib.io/coin/STAK/Straks)**
 - **[WhatToMine](https://whattomine.com/coins/240-stak-lyra2rev2)**
 - **[Crypto-Coinz](https://www.crypto-coinz.net/coin-info/?100-Straks-STAK-Lyra2v2-calculator/)**
-- **[Please check](https://www.mixxerly.com/)
+- **[Please check](https://www.mixxerly.com/)**
 
   
 ### Exchanges/Trading
